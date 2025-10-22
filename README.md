@@ -3,7 +3,7 @@
 A lightweight **Feedback Board** built with HTML, CSS, and JavaScript.  
 It loads demo feedback from an API and lets users post new comments — ideal for learning simple API interactions on the frontend.
 
-🔗 **Live Demo:** [View Here]([https://your-deployed-link.com](https://liyatony.github.io/Feedback-Board-Frontend/))
+🔗 **Live Demo:** [View Here](https://your-deployed-link.com)
 
 ---
 
