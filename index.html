@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Feedback Board</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Feedback Board</h1>
+    <p class="subtitle">Share your thoughts with us</p>
+
+    <form id="feedbackForm" class="card form-card">
+      <input type="text" id="name" placeholder="Your Name" required>
+      <textarea id="message" placeholder="Your Feedback" required></textarea>
+      <button type="submit">Submit Feedback</button>
+    </form>
+
+    <h2 class="section-title">Recent Feedbacks</h2>
+    <div id="feedbackList" class="feedback-grid"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
